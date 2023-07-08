@@ -1,5 +1,4 @@
 //Name: Diep Nguyen
-//ID: 501132181
 
 import java.util.ArrayList;
 import java.util.Scanner;
