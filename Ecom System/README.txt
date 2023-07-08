@@ -1,5 +1,18 @@
 ECommerceSystem
+	I added publish years for book products.
+	I also added 1 book and 3 shoes to the products list.
 	Replaced ArrayList<Product> with TreeMap<String, Product> where key is the Product Id
+
+Class Product
+	I added an ArrayList for ratings
+	When the customer rates the product it will be added to the ArrayList
+
+Action BOOKSBYAUTHOR:
+	I created a Comparator to sort the books by years.
+	I also created 2 new methods getYear() and getAuthor() in class BOOK.
+
+Action SHOES:
+	Print all shoes
 
 Action ADDTOCART
 	Will add Product of any Category to Cart
@@ -21,7 +34,5 @@ Action PRINTBYNAME, PRINTBYPRICE
 	Print products in required order only on command
 	If run Action PRODS afterward, the order will be back to by Product Id
 	
-Class Product
-	I added an ArrayList for ratings
-	When the customer rates the product it will be added to the ArrayList
+
 	
