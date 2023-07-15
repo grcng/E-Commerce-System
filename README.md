@@ -34,20 +34,18 @@ CLASSES:
 
 ACTIONS:
 	
- 	Print:
- 		CUSTS: All customers
-   		BOOKS: All books
-     		ORDERS:	All orders of user
-       		SHIPPED: All shipped orders of user
-	 	BOOKSBYAUTHOR: All books by a specified author
-  		CUSTORDERS: 
-
-    	Order:	
-     		ORDER: 
-       		SHIP:
-	 	CANCEL:
-		ORDERSHOES: the user can specify size and color
-  		ORDERBOOK:
+ 	CUSTS: All customers
+   	BOOKS: All books
+     	ORDERS:	All orders of user
+       	SHIPPED: All shipped orders of user
+	BOOKSBYAUTHOR: All books by a specified author
+  	CUSTORDERS: 
+   
+   	ORDER: 
+       	SHIP:
+	CANCEL:
+	ORDERSHOES: the user can specify size and color
+  	ORDERBOOK:
 	
 		
 	
