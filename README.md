@@ -39,7 +39,7 @@ ACTIONS:
    		BOOKS: All books
      		ORDERS:	All orders of user
        		SHIPPED: All shipped orders of user
-		BOOKSBYAUTHOR: All books by a specified author
+	 	BOOKSBYAUTHOR: All books by a specified author
   		CUSTORDERS: 
 
     	Order:	
