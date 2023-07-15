@@ -32,8 +32,9 @@ RATE: For customers to rate shipped orders
 SHOWRATE: Print every product in the Category with ratings of similar or bigger values.
 			
 NEWCUST:
-	
-		
+
+## Credit
+This is an assignment I did while taking CPS209 at Toronto Metropolitan University. The skeleton code was provided and our task was to add classes and code so that the actions are executable.
 	
 
 	
