@@ -33,7 +33,8 @@ CLASSES:
 	The user should be able to buy a pair of shoes that have sizes 6, 7, 8, 9, 10, and possible colors black or brown. 
 
 ACTIONS:
-	Print:
+	
+ 	Print:
  		CUSTS: All customers
    		BOOKS: All books
      		ORDERS:	All orders of user
