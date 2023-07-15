@@ -31,46 +31,40 @@ CLASSES:
 	
 	7. Shoes: this class is a subclass of Product with some specific options. 
 	The user should be able to buy a pair of shoes that have sizes 6, 7, 8, 9, 10, and possible colors black or brown. 
+ 
+	8. Cart: 
 
 ACTIONS:
 	
-	CUSTS: All customers
-	BOOKS: All books
-	ORDERS: All orders of user
-	SHIPPED: All shipped orders of user
-	BOOKSBYAUTHOR: All books by a specified author
-	CUSTORDERS: 
+CUSTS: All customers
+PRODS:
+BOOKS: All books
+SHOES:
+ORDERS: All orders of user
+SHIPPED: All shipped orders of user
+BOOKSBYAUTHOR: All books by a specified author
+CUSTORDERS:
+PRINTBYNAME, PRINTBYPRICE: Print products in required order only on command. If run Action PRODS afterward, the order will be back to by Product Id.
    
-   	ORDER: 
-       	SHIP:
-	CANCEL:
-	ORDERSHOES: the user can specify size and color
-  	ORDERBOOK:
-	
-		
-	
-	SHOES:
-		Print all shoes
-	
-	ADDTOCART
-		Will add Product of any Category to Cart
-		If the Product doesn't have a product option, leave the input blank
-		
-	RATE
-		This is for customers to rate shipped orders
-		If the order hasn't been shipped, there will be an exception
+ORDER: 
+SHIP:
+CANCEL:
+ORDERSHOES: the user can specify size and color
+ORDERBOOK:
+ADDTOCART: Add Product of any Category to Cart
 
-	SHOWRATE
-		Input the Product Category (i.e. "books")
-			If Category doesn't exist, there will be an exception
-		Input the minimum Rating Score (i.e. 2)
-			If the score is <1 or >5, there will be an exception
-		Action will print every product in the Category with ratings of similar or bigger values
-			The rating of the Product is the average of all ratings
+RATE: For customers to rate shipped orders
+SHOWRATE: Print every product in the Category with ratings of similar or bigger values.
+			
+NEWCUST:
 	
-	PRINTBYNAME, PRINTBYPRICE
-		Print products in required order only on command
-		If run Action PRODS afterward, the order will be back to by Product Id
+		
+	
+
+	
+	
+	
+	
 		
 
 	
