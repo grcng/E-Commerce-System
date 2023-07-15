@@ -34,7 +34,7 @@ SHOWRATE: Print every product in the Category with ratings of similar or bigger 
 NEWCUST:
 
 ## Credit
-This is an assignment I did while taking CPS209 at Toronto Metropolitan University. The skeleton code was provided and our task was to add classes and code so that the actions are executable.
+This is an assignment I did while taking CPS209 at Toronto Metropolitan University. The skeleton code was provided and our task was to add classes and code so that the program is executable. That includes actions, File I/O, and exception handling.
 	
 
 	
