@@ -33,11 +33,21 @@ CLASSES:
 	The user should be able to buy a pair of shoes that have sizes 6, 7, 8, 9, 10, and possible colors black or brown. 
 
 ACTIONS:
+	Print:
+ 		CUSTS: All customers
+   		BOOKS: All books
+     		ORDERS:	All orders of user
+       		SHIPPED: All shipped orders of user
+		BOOKSBYAUTHOR: All books by a specified author
+  		CUSTORDERS: 
 
-	ORDERSHOES:
-		the user can specify size and color and this information is stored in a single productOptions string
+    	Order:	
+     		ORDER: 
+       		SHIP:
+	 	CANCEL:
+		ORDERSHOES: the user can specify size and color
+  		ORDERBOOK:
 	
-	BOOKSBYAUTHOR:
 		
 	
 	SHOES:
