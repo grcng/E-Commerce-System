@@ -1,9 +1,9 @@
-## E-Commerce-System
-### Description
+# E-Commerce-System
+## Description
 This is an E-Commerce System Simulator program. 
 The system keeps track of all its products, registered customers, current orders, and shipped orders.
 
-### How to run?
+## How to run?
 ...
 
 ## Actions
