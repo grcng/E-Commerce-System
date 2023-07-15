@@ -34,12 +34,12 @@ CLASSES:
 
 ACTIONS:
 	
- 	CUSTS: All customers
-   	BOOKS: All books
-    	ORDERS: All orders of user
-     	SHIPPED: All shipped orders of user
+	CUSTS: All customers
+	BOOKS: All books
+	ORDERS: All orders of user
+	SHIPPED: All shipped orders of user
 	BOOKSBYAUTHOR: All books by a specified author
-  	CUSTORDERS: 
+	CUSTORDERS: 
    
    	ORDER: 
        	SHIP:
