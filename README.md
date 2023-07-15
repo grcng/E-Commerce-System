@@ -1,6 +1,6 @@
 # E-Commerce-System
 E-Commerce System Simulator program. 
-The system keeps track of all its products, all its registered customers, all current orders and all shipped orders.
+The system keeps track of all its products, registered customers, current orders, and shipped orders.
 
 CLASSES:
 
