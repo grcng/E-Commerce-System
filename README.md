@@ -75,7 +75,7 @@ There is a list of actions provided below. In the command prompt, type in the Ac
   </tr>
   <tr>
     <td>SHOWRATE</td>
-    <td>Products in the Category with ratings of similar or bigger values</td>
+    <td>Products in the Category with ratings of similar or bigger value</td>
   </tr>
   <tr>
     <td>NEWCUST</td>
