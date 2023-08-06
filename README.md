@@ -7,7 +7,7 @@ The system keeps track of all its products, registered customers, current orders
 ### Product list
 A list of products is provided in the products.txt file. If you want to add more products to the system, add items to the file using the same format. 
 ### Run the system
-Run ECommerceUserInterface.java.  
+Run class ECommerceUserInterface.  
 There is a list of actions provided below. In the command prompt, type in the Action Name. Letter case does not matter. Fill in any information (eg: ID, Category) if prompted to. 
 
 ## List of actions
