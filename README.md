@@ -59,7 +59,7 @@ There is a list of actions provided below. In the command prompt, type in the Ac
   </tr>
   <tr>
     <td>PRINTBYNAME</td>
-    <td>Products, sorted by name order</td>
+    <td>Products, sorted by name</td>
   </tr>
   <tr>
     <td>PRINTBYPRICE</td>
@@ -67,7 +67,7 @@ There is a list of actions provided below. In the command prompt, type in the Ac
   </tr>
   <tr>
     <td>SORTCUSTS</td>
-    <td>Customers, sorted by name order</td>
+    <td>Customers, sorted by name</td>
   </tr>
   <tr>
     <td>STATS</td>
