@@ -1,6 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

@@ -1,6 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
-
 import java.util.Comparator;
 
 public class ProductNameComparator implements Comparator<Product>

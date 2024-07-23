@@ -1,5 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
 public class CartItem
 {
 	private Product 	product;

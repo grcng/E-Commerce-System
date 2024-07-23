@@ -1,8 +1,4 @@
 import java.util.ArrayList;
-
-//Name: Diep Nguyen
-//ID: 501132181
-
 /*
  * class Product defines a product for sale by the system. 
  * 

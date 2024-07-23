@@ -1,7 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
-
-
 /*
  * class ProductOrder defines an order of a specific product by a customer
  * 

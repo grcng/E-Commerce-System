@@ -1,7 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
-
-
 public class Shoe extends Product
 {
 	//new variables to set stock for different productOptions
