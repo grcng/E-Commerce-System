@@ -131,8 +131,7 @@ There is a list of actions provided below. In the command prompt, type in the Ac
 </tbody>
 </table>
 
-## Credit
-This is an assignment I did while taking CPS209 at Toronto Metropolitan University. The skeleton code was provided and our task was to add classes and code so that the program is executable. That includes actions, File I/O, and exception handling.
+
 	
 
 	
