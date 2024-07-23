@@ -1,7 +1,3 @@
-//Name: Diep Nguyen
-//ID: 501132181
-
-
 public class Book extends Product 
 {
   private String author;
